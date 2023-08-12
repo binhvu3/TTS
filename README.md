@@ -378,3 +378,8 @@ api.tts_with_vc_to_file(
     |- vocoder/         (Vocoder models.)
         |- (same)
 ```
+
+## Record Voice 
+ ```
+    $ python3 voice_recorder.py 
+    ```
