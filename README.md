@@ -380,6 +380,6 @@ api.tts_with_vc_to_file(
 ```
 
 ## Record Voice 
- ```
+```
     $ python3 voice_recorder.py 
-    ```
+   ```
